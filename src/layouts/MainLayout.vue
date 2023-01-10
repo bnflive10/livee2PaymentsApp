@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          e2Payments Live Tests
+          e2Payments Testes por BNFLIVE10
         </q-toolbar-title>
 
         <div>e2Payments v1.0.0</div>
